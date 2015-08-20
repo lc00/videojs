@@ -1,0 +1,19 @@
+{
+  "name": "playVideojs",
+  "version": "0.0.0",
+  "authors": [
+    "lc00 <leannecheung00@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "video.js": "~4.12.13",
+    "videojs-markers": "~0.5.0"
+  }
+}
